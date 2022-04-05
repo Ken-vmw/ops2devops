@@ -2,3 +2,7 @@ Student number: 3
 Public ip of your student vm: 10.0.1.13
 Public ip of K8S server: 
 3.72.49.135
+
+
+
+tetfhfht
